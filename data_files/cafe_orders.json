@@ -1,0 +1,65 @@
+[
+  {
+    "order_id": 5001,
+    "customer": "Alice",
+    "items": 2,
+    "total": 7.8,
+    "paid": true,
+    "method": "card",
+    "time": "2026-01-28T08:15:00"
+  },
+  {
+    "order_id": 5002,
+    "customer": "Ben",
+    "items": 1,
+    "total": 3.2,
+    "paid": true,
+    "method": "cash",
+    "time": "2026-01-28T08:22:11"
+  },
+  {
+    "order_id": 5003,
+    "customer": "Cara",
+    "items": 3,
+    "total": 10.5,
+    "paid": false,
+    "method": "mobile",
+    "time": "2026-01-28T08:30:45"
+  },
+  {
+    "order_id": 5004,
+    "customer": "Dmitri",
+    "items": 2,
+    "total": 6.4,
+    "paid": true,
+    "method": "card",
+    "time": "2026-01-28T08:45:03"
+  },
+  {
+    "order_id": 5005,
+    "customer": "Ella",
+    "items": 4,
+    "total": 13.1,
+    "paid": true,
+    "method": "card",
+    "time": "2026-01-28T09:01:29"
+  },
+  {
+    "order_id": 5006,
+    "customer": "Finn",
+    "items": 1,
+    "total": 2.9,
+    "paid": false,
+    "method": "cash",
+    "time": "2026-01-28T09:05:10"
+  },
+  {
+    "order_id": 5007,
+    "customer": "Gina",
+    "items": 2,
+    "total": 8.6,
+    "paid": true,
+    "method": "mobile",
+    "time": "2026-01-28T09:15:55"
+  }
+]

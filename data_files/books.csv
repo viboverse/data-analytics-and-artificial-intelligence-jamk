@@ -1,0 +1,12 @@
+BookID;Title;Author;Genre;Price;Stock;Rating;Published;Publisher
+INT;STRING;STRING;CAT;DOUBLE;INT;DOUBLE;INT;STRING
+101;Clean Code;Robert C. Martin;Programming;37.50;12;4.7;2008;Prentice Hall
+102;The Pragmatic Programmer;"Andy Hunt; Dave Thomas";Programming;42.00;8;4.6;1999;Addison-Wesley
+103;Deep Work;Cal Newport;Productivity;16.99;25;4.5;2016;Grand Central
+104;Atomic Habits;James Clear;Self-Help;19.90;30;4.8;2018;Avery
+105;Designing Data-Intensive Applications;Martin Kleppmann;Programming;49.99;6;4.8;2017;O'Reilly
+106;Educated;Tara Westover;Memoir;14.50;10;4.4;2018;Random House
+107;The Phoenix Project;Gene Kim;Business;29.00;5;4.3;2013;IT Revolution
+108;Thinking, Fast and Slow;Daniel Kahneman;Psychology;13.99;20;4.1;2011;Farrar, Straus
+109;Invisible Women;Caroline Criado Perez;Non-Fiction;12.75;18;4.6;2019;Chatto & Windus
+110;Range;David Epstein;Non-Fiction;15.25;14;4.2;2019;Riverhead

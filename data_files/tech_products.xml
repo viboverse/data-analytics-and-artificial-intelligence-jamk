@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<products>
+    <product>
+        <item_id>p1</item_id>
+        <type>Laptop</type>
+        <name>Astra 14 Pro</name>
+        <manufacturer>LyraTech</manufacturer>
+        <region>Finland</region>
+        <date_added>January 12, 2025</date_added>
+        <release_year>2024</release_year>
+        <rating>4.6</rating>
+        <duration>24 months warranty</duration>
+        <listed_in>Ultrabooks, Business, Lightweight</listed_in>
+        <description>14-inch ultrabook with Ryzen 7, 16GB RAM, and silent cooling for lecture halls.</description>
+    </product>
+    <product>
+        <item_id>p2</item_id>
+        <type>Smartphone</type>
+        <name>Nimbus X2</name>
+        <manufacturer>PolarWave</manufacturer>
+        <region>Sweden</region>
+        <date_added>March 5, 2025</date_added>
+        <release_year>2025</release_year>
+        <rating>4.3</rating>
+        <duration>128 GB / 2 years warranty</duration>
+        <listed_in>Android, 5G, Mid-range</listed_in>
+        <description>Camera-focused mid-range phone with excellent battery life for commuters.</description>
+    </product>
+    <product>
+        <item_id>p3</item_id>
+        <type>Monitor</type>
+        <name>Helios 27Q</name>
+        <manufacturer>NorthStar Displays</manufacturer>
+        <region>Norway</region><date_added>September 1, 2023</date_added>
+        <release_year>2023</release_year>
+        <rating>4.1</rating>
+        <duration>27-inch / 75 Hz</duration>
+        <listed_in>Office, IPS, Budget</listed_in>
+        <description>Matte IPS panel ideal for code and spreadsheets, minimal motion blur.</description>
+    </product>
+    <product>
+        <item_id>p4</item_id>
+        <type>Headphones</type>
+        <name>EchoShade ANC</name>
+        <manufacturer>SoundForge</manufacturer>
+        <region>Germany</region>
+        <date_added>June 18, 2024</date_added>
+        <release_year>2024</release_year>
+        <rating>4.7</rating>
+        <duration>Bluetooth 5.3 / 35h</duration>
+        <listed_in>Noise Cancelling, Commuting, Over-ear</listed_in>
+        <description>Strong midrange, comfortable fit, effective active noise cancelling on buses.</description>
+    </product>
+    <product>
+        <item_id>p5</item_id>
+        <type>Router</type>
+        <name>WaveMesh AX5400</name>
+        <manufacturer>AkiNet</manufacturer>
+        <region>Poland</region>
+        <date_added>February 22, 2022</date_added>
+        <release_year>2022</release_year>
+        <rating>4.0</rating>
+        <duration>Wi‑Fi 6 / Mesh</duration>
+        <listed_in>Home, Dual-band, Mesh-ready</listed_in>
+        <description>Solid coverage for apartments; easy mesh expansion for multi-floor homes.</description>
+    </product>
+    <product>
+        <item_id>p6</item_id>
+        <type>Laptop</type>
+        <name>Zephyr 16 Studio</name>
+        <manufacturer>LyraTech</manufacturer>
+        <region>Finland</region>
+        <date_added>October 3, 2024</date_added>
+        <release_year>2024</release_year>
+        <rating>4.8</rating>
+        <duration>16-inch / RTX 4060</duration>
+        <listed_in>Creator, Performance</listed_in>
+        <description>Quiet creator laptop for video editing, calibrated display, great battery.</description>
+    </product>
+    <product>
+        <item_id>p7</item_id>
+        <type>Smartwatch</type>
+        <name>PulseTrail 3</name>
+        <manufacturer>PolarWave</manufacturer>
+        <region>Sweden</region>
+        <date_added>May 9, 2023</date_added>
+        <release_year>2023</release_year>
+        <rating>3.9</rating>
+        <duration>GPS / 10 days</duration>
+        <listed_in>Fitness, Sleep tracking</listed_in>
+        <description>Reliable GPS and sleep metrics; limited third-party app ecosystem.</description>
+    </product>
+    <product>
+        <item_id>p8</item_id>
+        <type>Keyboard</type>
+        <name>NordicType TKL</name>
+        <manufacturer>KeyCraft</manufacturer>
+        <region>Finland</region>
+        <date_added>August 28, 2025</date_added>
+        <release_year>2025</release_year>
+        <rating>4.5</rating>
+        <duration>Hot‑swap / TKL</duration>
+        <listed_in>Mechanical, Office</listed_in>
+        <description>Hotswappable tactile switches, quiet case foam, Nordic layout.</description>
+    </product>
+</products>
