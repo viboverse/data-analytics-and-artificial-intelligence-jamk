@@ -1,0 +1,52 @@
+OrderID;OrderDatetime;ShipDate;Status;PaymentMethod;ProductSKU;Quantity;UnitPrice;Discount;TotalEUR;Returned;City;Country;Note;CustomerSegment;OrderChannel;MarketingTag;InternalFlag
+STRING;DATETIME;DATE;CAT;CAT;STRING;INT;DOUBLE;DOUBLE;DOUBLE;BOOL;CAT;CAT;STRING;CAT;CAT;STRING;BOOL
+ORD000001;2023-06-25 20:20:00;2023-06-28;returned;invoice;SKU-0126;2;95.86;0.00;191.72;True;Lahti;FI;;C;phone;promo2024;True
+ORD000002;2023-06-17 18:12:00;2023-06-24;paid;mobile;SKU-0156;1;90.00;0.10;81.00;False;Lahti;FI;;VIP;mobile;promo2024;False
+ORD000003;2023-07-03 15:49:00;2023-07-03;delivered;bank;SKU-0108;1;238.28;0.10;214.45;False;Vantaa;FI;gift;A;phone;vip;True
+ORD000004;2023-09-15 06:40:00;2023-09-22;paid;card;SKU-0121;1;136.72;0.20;109.38;True;Oulu;FI;;C;store;promo2024;True
+ORD000005;2024-04-26 09:39:00;2024-04-27;paid;mobile;SKU-0117;2;217.20;0.00;434.40;False;Tampere;FI;;C;phone;promo2024;True
+ORD000006;2023-03-25 06:42:00;2023-03-28;paid;bank;SKU-0146;2;201.84;0.00;403.68;False;Oulu;FI;check address;VIP;store;vip;False
+ORD000007;2023-11-06 13:47:00;2023-11-10;shipped;bank;SKU-0103;5;47.37;0.00;236.85;True;Lahti;FI;check address;A;store;vip;True
+ORD000008;2024-07-20 11:18:00;2024-07-25;placed;mobile;SKU-0129;1;100.71;0.00;100.71;False;Helsinki;FI;;A;web;promo2023;True
+ORD000009;2025-02-03 03:10:00;2025-02-09;shipped;mobile;SKU-0105;4;266.75;0.05;1013.65;False;Espoo;FI;check address;C;phone;;False
+ORD000010;2024-03-14 22:36:00;2024-03-20;delivered;invoice;SKU-0156;3;48.41;0.05;137.97;False;Espoo;FI;;B;web;;True
+ORD000011;2024-04-14 01:25:00;2024-04-22;placed;invoice;SKU-0141;4;156.45;0.00;625.80;True;Jyväskylä;FI;gift;C;phone;promo2024;True
+ORD000012;2023-11-12 14:10:00;2023-11-12;placed;card;SKU-0127;4;176.35;0.00;705.40;True;Pori;FI;check address;C;phone;;True
+ORD000013;2023-02-12 14:24:00;2023-02-12;paid;invoice;SKU-0116;2;159.16;0.00;318.32;False;Helsinki;FI;gift;C;web;promo2024;True
+ORD000014;2024-10-27 16:46:00;2024-10-30;delivered;card;SKU-0108;4;54.64;0.05;207.63;False;Kuopio;FI;check address;C;web;promo2023;True
+ORD000015;2024-04-26 10:12:00;2024-04-29;shipped;card;SKU-0100;4;193.35;0.10;696.06;False;Pori;FI;priority;VIP;phone;vip;False
+ORD000016;2024-03-16 16:34:00;2024-03-21;paid;bank;SKU-0129;2;282.50;0.20;452.00;False;Espoo;FI;;A;mobile;vip;True
+ORD000017;2024-01-02 08:10:00;2024-01-09;delivered;bank;SKU-0141;3;262.43;0.00;787.29;False;Lahti;FI;gift;VIP;store;vip;False
+ORD000018;2023-03-09 17:37:00;;paid;bank;SKU-0112;2;58.51;0.00;117.02;True;Helsinki;FI;priority;VIP;web;;True
+ORD000019;2024-01-05 23:54:00;2024-01-06;paid;card;SKU-0144;1;276.02;0.10;248.42;False;Kuopio;FI;;VIP;store;promo2023;True
+ORD000020;2023-10-04 13:31:00;2023-10-12;shipped;invoice;SKU-0131;5;117.84;0.05;559.74;False;Helsinki;FI;priority;C;mobile;;True
+ORD000021;2023-09-04 15:42:00;;delivered;card;SKU-0146;2;263.04;0.00;526.08;True;Turku;FI;;B;mobile;;False
+ORD000022;2023-04-15 10:05:00;2023-04-22;placed;bank;SKU-0115;10;246.53;0.05;2342.03;False;Oulu;FI;check address;A;mobile;promo2023;True
+ORD000023;2024-11-03 20:22:00;2024-11-07;delivered;mobile;SKU-0107;2;136.22;0.00;272.44;True;Turku;FI;check address;B;web;promo2023;True
+ORD000024;2025-02-14 06:45:00;2025-02-21;placed;invoice;SKU-0118;4;176.31;0.00;705.24;False;Espoo;FI;priority;VIP;mobile;promo2023;False
+ORD000025;2023-04-14 09:44:00;2023-04-15;shipped;invoice;SKU-0148;1;85.06;0.10;76.55;True;Pori;FI;;VIP;web;promo2023;True
+ORD000026;2024-12-24 20:02:00;2025-01-01;delivered;mobile;SKU-0102;2;268.77;0.00;537.54;False;Jyväskylä;FI;gift;B;mobile;vip;False
+ORD000027;2024-12-08 15:37:00;2024-12-12;paid;invoice;SKU-0105;5;101.55;0.10;456.98;True;Vantaa;FI;priority;B;store;clearance;False
+ORD000028;2023-06-15 23:14:00;2023-06-19;shipped;invoice;SKU-0153;1;64.77;0.10;58.29;True;Tampere;FI;check address;B;store;clearance;False
+ORD000029;2024-08-15 15:59:00;2024-08-19;delivered;invoice;SKU-0108;2;32.31;0.00;64.62;False;Oulu;FI;;VIP;phone;promo2023;True
+ORD000030;2024-05-27 10:25:00;;shipped;invoice;SKU-0100;10;289.26;0.00;2892.60;True;Tampere;FI;;VIP;store;clearance;True
+ORD000031;2023-03-26 18:23:00;2023-03-26;paid;mobile;SKU-0124;2;268.06;0.10;482.51;False;Jyväskylä;FI;priority;A;phone;clearance;True
+ORD000032;2023-03-29 04:03:00;2023-04-03;placed;card;SKU-0138;2;105.22;0.00;210.44;False;Espoo;FI;;A;store;promo2023;True
+ORD000033;2023-05-25 18:00:00;2023-05-28;paid;mobile;SKU-0159;5;98.23;0.10;442.04;True;Helsinki;FI;priority;VIP;web;clearance;True
+ORD000034;2023-01-29 17:11:00;2023-02-03;shipped;invoice;SKU-0143;4;145.83;0.00;583.32;False;Lahti;FI;priority;B;store;;True
+ORD000035;2023-06-15 23:26:00;2023-06-21;cancelled;card;SKU-0116;1;166.14;0.00;166.14;False;Oulu;FI;check address;B;phone;promo2024;True
+ORD000036;2024-05-27 01:22:00;2024-05-28;placed;bank;SKU-0118;10;129.54;0.00;1295.40;True;Oulu;FI;gift;A;phone;promo2024;False
+ORD000037;2024-06-19 22:52:00;2024-06-20;delivered;mobile;SKU-0120;2;290.76;0.00;581.52;False;Lahti;FI;check address;VIP;mobile;promo2023;True
+ORD000038;2023-12-10 11:26:00;2023-12-13;paid;invoice;SKU-0112;5;57.81;0.05;274.60;True;Pori;FI;priority;A;web;vip;False
+ORD000039;2025-01-31 04:08:00;2025-02-06;paid;mobile;SKU-0129;10;189.63;0.00;1896.30;False;Turku;FI;check address;A;store;promo2023;True
+ORD000040;2025-02-05 03:43:00;2025-02-10;placed;card;SKU-0144;2;11.72;0.00;23.44;True;Helsinki;FI;;C;mobile;vip;True
+ORD000041;2023-04-27 09:27:00;;paid;bank;SKU-0130;2;15.16;0.00;30.32;False;Oulu;FI;;C;store;promo2024;True
+ORD000042;2023-08-08 10:16:00;2023-08-15;shipped;card;SKU-0110;2;198.73;0.00;397.46;False;Espoo;FI;priority;C;store;promo2023;False
+ORD000043;2023-12-20 17:41:00;2023-12-22;returned;bank;SKU-0105;1;275.23;0.00;275.23;True;Jyväskylä;FI;gift;B;mobile;;True
+ORD000044;2024-07-06 13:39:00;2024-07-11;paid;invoice;SKU-0147;4;74.31;0.00;297.24;False;Turku;FI;;VIP;mobile;clearance;False
+ORD000045;2025-03-01 05:29:00;2025-03-08;delivered;bank;SKU-0147;1;77.07;0.00;77.07;True;Vantaa;FI;;VIP;mobile;vip;False
+ORD000046;2024-09-16 13:04:00;2024-09-16;placed;card;SKU-0121;5;204.08;0.00;1020.40;True;Vantaa;FI;;VIP;mobile;clearance;True
+ORD000047;2023-04-18 03:59:00;2023-04-22;delivered;mobile;SKU-0103;4;41.69;0.00;166.76;False;Turku;FI;gift;VIP;mobile;clearance;False
+ORD000048;2024-11-16 04:33:00;2024-11-23;paid;mobile;SKU-0107;2;211.77;0.10;381.19;True;Tampere;FI;check address;C;store;promo2023;True
+ORD000049;2023-07-08 12:25:00;;shipped;bank;SKU-0115;5;39.76;0.05;188.86;False;Lahti;FI;;B;mobile;clearance;True
+ORD000050;2023-09-18 23:55:00;2023-09-22;placed;card;SKU-0149;4;261.02;0.10;939.67;False;Espoo;FI;check address;B;web;;False
